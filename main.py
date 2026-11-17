@@ -8,3 +8,4 @@ def greet_many(names):
 
 if __name__ == "__main__":
     print(greet_many(["Git", "Python", "Codex"]))
+    
